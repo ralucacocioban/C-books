@@ -1,0 +1,21 @@
+Rezultate carti tehnice:
+
+Auto Eric franceza 2005 12 1557 1 Laura 2011 3 11
+Cakes James engleza 1998 4 1236 0
+Mecanica Smith engleza 2001 41 1444 0
+Motor James romana 2007 11 1223 1 Carmen 2011 5 19
+
+Rezultate literatura:
+
+Fight_club Palahniuk psihologicSimona 2002 1 Simona 2011 11 1
+Chuck Palahniuk drama 2006 0
+Cianura James actiune 1999 1 Maria 2011 1 21
+Vulcanul_de_aur JulesVerne aventura 1889 1 Sebi 2011 1 12
+Rant Palahniuk drama 2008 1 Ioana 2011 2 18
+
+Rezultate volume conferinta:
+
+Piramide istorie discovery egipt 2001 2 1 sebastian 2011 12 12
+Otomanii istorie axn romania 2005 6 0
+Basme fictiune cartoon romania 2005 3 0
+Cristale_lichide stiinta discovery sua 2008 14 1 mike 2011 5 14
